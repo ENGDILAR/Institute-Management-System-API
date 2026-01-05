@@ -1,0 +1,6 @@
+@Lpgin2_HostAddress = http://localhost:5170
+
+GET {{Lpgin2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
