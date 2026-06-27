@@ -74,9 +74,6 @@ namespace Lpgin2.Data
                .Property(sm => sm.Mark)
                .HasPrecision(5, 2);
 
-  
-
-
 
             modelBuilder.Entity<clsExamType>().HasData(
                new clsExamType { Id = 1, Name = "First Exam", MaxMark = 20 },

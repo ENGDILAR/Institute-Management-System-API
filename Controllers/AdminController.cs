@@ -27,12 +27,11 @@ namespace Lpgin2.Controllers
             if (admin == null)
                 return BadRequest("Invalid Admin data.");
 
-            //IDbContextTransaction  ال Var يكون من نوع
             using var transaction = await _context.Database.BeginTransactionAsync();
 
             try
             {
-                // التحقق من وجود البريد الإلكتروني قبل الإدراج
+             
                 if (await _context.users.AnyAsync(u => u.Email == admin.Email))
                     return Conflict("Email already exists. Please use another email.");
 
@@ -117,7 +116,7 @@ namespace Lpgin2.Controllers
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
             {
-                // ✅ تحقق من البريد الإلكتروني الجديد فقط إذا تم إدخاله وكان مختلفًا
+              
                 if (!string.IsNullOrWhiteSpace(admin.Email) &&
                     adm.User != null &&
                     adm.User.Email != admin.Email)
@@ -129,7 +128,7 @@ namespace Lpgin2.Controllers
                     adm.User.Email = admin.Email;
                 }
 
-                // ✅ تحديث الحقول فقط إذا أرسل المستخدم قيمًا جديدة
+    
                 if (!string.IsNullOrWhiteSpace(admin.FirstName))
                     adm.FirstName = admin.FirstName;
 
@@ -145,7 +144,7 @@ namespace Lpgin2.Controllers
                 if (!string.IsNullOrWhiteSpace(admin.EPhone))
                     adm.EPhone = admin.EPhone;
 
-                // ✅ تحديث كلمة المرور فقط إذا تم إرسالها
+   
                 if (!string.IsNullOrWhiteSpace(admin.Password) && adm.User != null)
                     adm.User.Password = BCrypt.Net.BCrypt.HashPassword(admin.Password);
 

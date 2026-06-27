@@ -1,0 +1,8 @@
+﻿namespace Lpgin2.DTOs.Auth
+{
+    public class RefreshRequest
+    {
+        public string RefreshToken { get; set; }
+        public string Email { get; set; }
+    }
+}

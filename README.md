@@ -1,93 +1,215 @@
-﻿# 📘 Institute Management System – ASP.NET Core Web API
+﻿# 🎓 Institute Management System API
 
-## 🔍 Project Overview
+A RESTful backend built with **ASP.NET Core 8 Web API** for managing institute operations, including administrators, doctors, students, courses, course offerings, enrollments, and student marks.
 
-A secure and scalable Institute Management System built using ASP.NET Core 8 Web API, designed to manage students, courses, enrollments, marks, and administrative operations with role-based access control.
+The project focuses on secure authentication, role-based authorization, transactional data consistency, and a well-structured architecture using **Entity Framework Core** and **SQL Server**.
 
-The project follows clean architecture principles, uses DTO-based communication, and implements modern backend best practices suitable for real-world applications.
+---
 
-## 🚀 Key Features
+# ✨ Features
 
-- 🔐 JWT Authentication & Authorization
-- 👥 Multi-Role System (Admin / Student)
-- 🧩 Clean & Modular Architecture
-- 📦 DTOs (Request / Response separation)
-- ✅ Advanced Validation Layer per Domain
-- 🔄 Database Transactions
-- 🔑 Secure Password Hashing (BCrypt)
-- 📄 Swagger API Documentation
-- 📬 Postman Collection for API Testing
-- 🗄️ Entity Framework Core with SQL Server
-- 📊 Student Marks & Enrollment Management
+## 🔐 Authentication & Security
 
-## 🛠️ Tech Stack
+- JWT Authentication
+- Refresh Token Authentication
+- BCrypt Password Hashing
+- Role-Based Authorization
+- Authentication Rate Limiting
+- Secure Token Rotation
+
+## 🎓 Academic Management
+
+- Administrator Management
+- Doctor Management
+- Student Management
+- Course Management
+- Course Offerings
+- Student Enrollments
+- Student Marks Management
+- Exam Types
+
+## ⚙️ Backend Features
+
+- RESTful API Design
+- DTO-based Request & Response Models
+- Entity Framework Core
+- SQL Server Integration
+- FluentValidation
+- Database Transactions
+- Dependency Injection
+- EF Core Migrations
+- Swagger / OpenAPI Documentation
+
+---
+
+# 🏗 Architecture
+
+The project follows a layered architecture with clear separation of responsibilities.
+
+## Main Components
+
+- Controllers
+- DTOs
+- Services
+- Data (DbContext)
+- Models
+- Validators
+- Middlewares
+- Extensions
+- Migrations
+
+## Design Principles
+
+- Separation of Concerns
+- Layered Architecture
+- Dependency Injection
+- DTO Pattern
+- Service Layer
+- Transactional Operations
+
+---
+
+# 🛠 Technology Stack
 
 - ASP.NET Core 8 Web API
+- C#
 - Entity Framework Core
 - SQL Server
 - JWT Authentication
 - BCrypt
-- Swagger
-- Postman
+- FluentValidation
+- Swagger / OpenAPI
+- Rate Limiting
+- Git
 
-## 🧱 Project Structure
+---
 
+# 📂 Project Structure
+
+```text
 Controllers/
 DTOs/
-├── Request
-└── Response
+├── Request/
+└── Response/
 Data/
 Models/
-├── Entities
-└── MTM
+├── Entities/
+└── MTM/
 Services/
 Validators/
 Middlewares/
-Helpers/
+Extensions/
 Migrations/
+```
 
+---
 
-This structure ensures maintainability, scalability, and clear separation of concerns.
+# 🚀 Getting Started
 
-## 🔐 Security
+## Prerequisites
 
-- JWT-based authentication
-- Role-based authorization (Admin / Student)
-- Secure password hashing using BCrypt
-- Input validation at multiple layers
+- .NET 8 SDK
+- SQL Server
+- Visual Studio 2022 (or Visual Studio Code)
 
-## 📌 API Documentation
+## Installation
 
-- Swagger UI available for interactive API testing
-- Postman Collection included for real request/response examples
+### 1. Clone the repository
 
-## ⚙️ How to Run the Project
+```bash
+git clone <repository-url>
+```
 
-1. Configure your SQL Server connection string in `appsettings.json`
-2. Apply migrations:
-   ```bash
-   Update-Database
-3.Run the project
+### 2. Open the solution
 
-4.Open Swagger:
+Open the project using **Visual Studio** or **Visual Studio Code**.
+
+### 3. Configure the database
+
+Update the SQL Server connection string inside:
+
+```json
+appsettings.json
+```
+
+### 4. Apply Entity Framework Core migrations
+
+Using the .NET CLI:
+
+```bash
+dotnet ef database update
+```
+
+Or from the Visual Studio Package Manager Console:
+
+```powershell
+Update-Database
+```
+
+### 5. Run the project
+
+```bash
+dotnet run
+```
+
+Or simply press **F5** in Visual Studio.
+
+### 6. Open Swagger
+
+```text
 https://localhost:{port}/swagger
+```
 
-## 🎯 Project Goal
+---
 
-This project was built as a real-world backend simulation to demonstrate backend development skills and is intended for:
+# 📄 API Documentation
 
-Backend Internship
+Swagger is enabled for interactive API exploration and testing.
 
-Junior Backend Developer position
+After running the project, navigate to:
 
-ASP.NET Core Web API roles
+```text
+https://localhost:{port}/swagger
+```
 
-## 🔮 Future Improvements
+---
 
-Unit & Integration Testing
+# 🔒 Security
 
-Refresh Token implementation
+- JWT Authentication
+- Refresh Tokens
+- BCrypt Password Hashing
+- Role-Based Authorization
+- FluentValidation
+- Authentication Rate Limiting
 
-Role management dashboard
+---
 
-Deployment (Docker / Cloud)
+# 🎯 Project Highlights
+
+- Secure authentication using JWT and Refresh Tokens
+- Multi-role authorization (Admin, Doctor, Student)
+- Transactional operations for data consistency
+- Entity Framework Core with relational database modeling
+- Input validation using FluentValidation
+- RESTful API following modern backend development practices
+
+---
+
+# 🔮 Future Improvements
+
+- Global Exception Handling Middleware
+- Centralized Logging
+- Automated Unit & Integration Testing
+- Pagination & Filtering
+- Response Caching
+- Docker Support
+- CI/CD Pipeline
+
+---
+
+# 👨‍💻 Author
+
+**Dilar Almaoo**
+
+Software Engineer

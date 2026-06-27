@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Lpgin2.props" />
-</Project>

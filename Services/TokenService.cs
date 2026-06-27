@@ -1,11 +1,16 @@
-﻿using Lpgin2.Models.Entities;
+﻿using Lpgin2.DTOs.Auth;
+using Lpgin2.DTOs.Response;
+using Lpgin2.Helpers;
 using Lpgin2.Models;
+using Lpgin2.Models.Entities;
+using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
-using Microsoft.Extensions.Options;
-using Lpgin2.Helpers;
 
 namespace Lpgin2.Services
 {
@@ -20,28 +25,17 @@ namespace Lpgin2.Services
          
         }
 
-        public string GenerateToken(clsUser user)
+        public TokenResponse GenerateToken(clsUser user)
         {    
 
             var claims = new[]
             {
-                 new Claim(JwtRegisteredClaimNames.Sub, user.Email),
+                 new Claim(ClaimTypes.NameIdentifier, user.id.ToString()),
                  new Claim(ClaimTypes.Role, user.role.ToString()),
-                 new Claim("UserId", user.id.ToString()),
+                 new Claim(ClaimTypes.Email, user.Email),
                  new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
-            // EX
-            //            {
-            //                "sub": "dilar@gmail.com",
-            //                "role": "Admin",
-            //                "UserId": "7",
-            //                "jti": "c8a5b87b-2a0d-4b2b-bc25-7e5dfe0cd07e",
-            //                "iss": "yourApp",
-            //                "aud": "yourUsers",
-            //                "exp": 1730000000 Timer
-            //            }
-
-            // 🔐 توقيع التوكن
+         
             var key = Encoding.UTF8.GetBytes(_opts.SigningKey);
             var signingKey = new SymmetricSecurityKey(key);
             var creds = new SigningCredentials(signingKey, SecurityAlgorithms.HmacSha256);
@@ -56,8 +50,59 @@ namespace Lpgin2.Services
                 expires: DateTime.UtcNow.AddMinutes(_opts.LifetimeInMinutes),
                 signingCredentials: creds
             );
+            var AccessToken = new JwtSecurityTokenHandler().WriteToken(token);
 
-            return new JwtSecurityTokenHandler().WriteToken(token);
+            var RefreshToken = TokenService.GenerateRefreshToken();
+            return (new TokenResponse { AccessToken = AccessToken,RefreshToken=RefreshToken });
         }
+
+        private static string GenerateRefreshToken()
+        {
+            var bytes = new byte[64];
+            using var rng = RandomNumberGenerator.Create();
+            rng.GetBytes(bytes);
+            return Convert.ToBase64String(bytes);
+        }
+
+        public TokenResponse Refresh(RefreshRequest request, clsUser user)
+        {
+
+          
+
+            var claims = new[]
+            {
+            new Claim(ClaimTypes.NameIdentifier, user.id.ToString()),
+            new Claim(ClaimTypes.Email, user.Email),
+            new Claim(ClaimTypes.Role, user.role.ToString())
+        };
+
+            var key = new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(_opts.SigningKey));
+
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+            var token = new JwtSecurityToken(
+                 issuer: _opts.Issuer,
+                 audience: _opts.Audience,
+                 claims: claims,
+                 expires: DateTime.UtcNow.AddMinutes(_opts.LifetimeInMinutes),
+                 signingCredentials: creds
+             );
+
+            var accessToken =
+                new JwtSecurityTokenHandler().WriteToken(token);
+
+            var refreshToken = TokenService.GenerateRefreshToken();
+
+            return new TokenResponse
+            {
+                AccessToken = accessToken,
+                RefreshToken = refreshToken
+            };
+        }
+
+       
     }
+
 }
+

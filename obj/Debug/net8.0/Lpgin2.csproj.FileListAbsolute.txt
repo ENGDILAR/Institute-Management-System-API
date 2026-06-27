@@ -666,12 +666,6 @@ C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Managem
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets\msbuild.Lpgin2.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets\msbuild.Lpgin2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Lpgin2.props
-C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lpgin2.props
-C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lpgin2.props
-C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.csproj.Up2Date
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.dll
@@ -682,3 +676,549 @@ C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Managem
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.sourcelink.json
+C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Laptop Syria\Desktop\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\swae.build.ex.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\appsettings.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Lpgin2.staticwebassets.endpoints.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Lpgin2.exe
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Lpgin2.deps.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Lpgin2.runtimeconfig.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Lpgin2.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Lpgin2.pdb
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Azure.Core.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Azure.Identity.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\FluentValidation.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Humanizer.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.Common.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.ClientModel.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.CodeDom.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.csproj.AssemblyReference.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.AssemblyInfoInputs.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.AssemblyInfo.cs
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.csproj.CoreCompileInputs.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.sourcelink.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\scopedcss\bundle\Lpgin2.styles.css
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\swae.build.ex.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.csproj.Up2Date
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\refint\Lpgin2.dll
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.pdb
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\Lpgin2.genruntimeconfig.cache
+D:\Programming Advices\asp.net\JWT\Univercity Management System\obj\Debug\net8.0\ref\Lpgin2.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\appsettings.json
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Lpgin2.staticwebassets.endpoints.json
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Lpgin2.exe
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Lpgin2.deps.json
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Lpgin2.runtimeconfig.json
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Lpgin2.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Lpgin2.pdb
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\FluentValidation.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.Common.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.ClientModel.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\UMS\Univercity Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.csproj.AssemblyReference.cache
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.AssemblyInfoInputs.cache
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.AssemblyInfo.cs
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.csproj.CoreCompileInputs.cache
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.sourcelink.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\scopedcss\bundle\Lpgin2.styles.css
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.csproj.Up2Date
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.dll
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\refint\Lpgin2.dll
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.pdb
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\Lpgin2.genruntimeconfig.cache
+D:\Projects\UMS\Univercity Management System\obj\Debug\net8.0\ref\Lpgin2.dll

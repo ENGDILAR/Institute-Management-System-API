@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdEp2sVbd4U=",
+  "dgSpecHash": "8etq3I0HuQU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Lpgin2.csproj",
+  "projectFilePath": "D:\\Projects\\UMS\\Univercity Management System\\Lpgin2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laptop Syria\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Laptop Syria\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

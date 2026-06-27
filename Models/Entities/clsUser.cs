@@ -15,5 +15,9 @@ namespace Lpgin2.Models.Entities
 
         public clsStudent? student { get; set; }
 
+        public string? RefreshTokenHash { get; set; } = string.Empty;
+        public DateTime? RefreshTokenExpiresAt { get; set; }
+        public DateTime? RefreshTokenRevokedAt { get; set; }
+
     }
 }

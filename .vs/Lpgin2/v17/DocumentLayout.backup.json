@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\",
+  "WorkspaceRootPath": "D:\\Projects\\UMS\\Univercity Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|c:\\users\\laptop syria\\desktop\\programming advices\\asp.net\\jwt\\univercity management system\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|d:\\projects\\ums\\univercity management system\\extentions\\ratelimiterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|solutionrelative:extentions\\ratelimiterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|c:\\users\\laptop syria\\desktop\\programming advices\\asp.net\\jwt\\univercity management system\\controllers\\studentmarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|solutionrelative:controllers\\studentmarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|d:\\projects\\ums\\univercity management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|c:\\users\\laptop syria\\desktop\\programming advices\\asp.net\\jwt\\univercity management system\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|d:\\projects\\ums\\univercity management system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|d:\\projects\\ums\\univercity management system\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0502F-3CB4-4737-9CD4-D2C120387490}|Lpgin2.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentMarksController.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Controllers\\StudentMarksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentMarksController.cs",
-              "ToolTip": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Controllers\\StudentMarksController.cs",
-              "RelativeToolTip": "Controllers\\StudentMarksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAABLAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RateLimiterExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\UMS\\Univercity Management System\\Extentions\\RateLimiterExtensions.cs",
+              "RelativeDocumentMoniker": "Extentions\\RateLimiterExtensions.cs",
+              "ToolTip": "D:\\Projects\\UMS\\Univercity Management System\\Extentions\\RateLimiterExtensions.cs",
+              "RelativeToolTip": "Extentions\\RateLimiterExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T17:00:50.071Z",
+              "WhenOpened": "2026-06-26T14:52:47.178Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\UMS\\Univercity Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\UMS\\Univercity Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T14:22:58.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Projects\\UMS\\Univercity Management System\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "D:\\Projects\\UMS\\Univercity Management System\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:36:44.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA2wGgAAAAgAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\UMS\\Univercity Management System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\UMS\\Univercity Management System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:16:18.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnrollmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Controllers\\EnrollmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
-              "ToolTip": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Controllers\\EnrollmentController.cs",
-              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAA3wGAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:14:52.427Z",
+              "WhenOpened": "2026-06-24T14:35:54.833Z",
               "EditorCaption": ""
             }
           ]

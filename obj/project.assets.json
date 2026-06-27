@@ -7954,11 +7954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Lpgin2.csproj",
+      "projectUniqueName": "D:\\Projects\\UMS\\Univercity Management System\\Lpgin2.csproj",
       "projectName": "Lpgin2",
-      "projectPath": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\Lpgin2.csproj",
+      "projectPath": "D:\\Projects\\UMS\\Univercity Management System\\Lpgin2.csproj",
       "packagesPath": "C:\\Users\\Laptop Syria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop Syria\\Desktop\\Programming Advices\\asp.net\\JWT\\Univercity Management System\\obj\\",
+      "outputPath": "D:\\Projects\\UMS\\Univercity Management System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7992,7 +7992,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -8052,7 +8052,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

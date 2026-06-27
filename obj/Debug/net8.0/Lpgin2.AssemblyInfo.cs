@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lpgin2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e2796c857d29bece8212997381ff5665eabbd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lpgin2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lpgin2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
